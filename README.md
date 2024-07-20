@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Tony</h1>
 
-#### A Technical Manager & Full-Stack Developer with a pashion for new technologies ☾
+#### A Technical Manager & Full-Stack Developer with a pashion for new technologies 🖥️
 
 Technical Manager/Full-Stack Developer at [Spectrum](https://www.spectrum.com?ref=github-askurat);<br>
 
