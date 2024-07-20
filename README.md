@@ -1,4 +1,4 @@
-### Hello there 👋
+<h1>Hi 👋, I'm Tony</h1>
 
 #### A Technical Manager & Full-Stack Developer with a pashion for new technologies ☾
 
